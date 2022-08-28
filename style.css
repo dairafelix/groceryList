@@ -68,6 +68,7 @@ body {
     padding: 0.5em;
     border-radius: 0.25em;
     text-align: center;
+    cursor: pointer;
 }
 .groceryItem:hover {
     background-color: var(--purplish);
